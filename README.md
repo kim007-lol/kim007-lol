@@ -27,31 +27,31 @@
 
 <br/>
 
-## Siapa Ngabdullah Hakim?
+## Who is Ngabdullah Hakim?
 
-**Ngabdullah Hakim** adalah seorang Fullstack Software Engineer asal Surabaya, Indonesia, yang berpengalaman dalam pengembangan aplikasi web dan mobile menggunakan teknologi seperti Go, Laravel, dan Flutter. Saat ini bekerja sebagai Junior Programming Assistant di **PT Meta Media Optima**, membangun produk nyata yang dipakai orang setiap hari: **Aire** (platform layanan AC), **Venus Gadget** (e-commerce gadget), dan **Traversa** (aplikasi travel). Di luar pekerjaan kantor, ia adalah founder **TKA & UTBK Tracker**, aplikasi persiapan ujian yang sudah live di Google Play.
+**Ngabdullah Hakim** is a Fullstack Software Engineer based in Surabaya, Indonesia, experienced in building web and mobile applications with Go, Laravel, and Flutter. He currently works as a Junior Programming Assistant at **PT Meta Media Optima**, building real products people use every day: **Aire** (an AC service platform), **Venus Gadget** (a gadget e-commerce store), and **Traversa** (a travel app). Outside his day job, he is the founder of **TKA & UTBK Tracker**, an exam preparation app live on Google Play.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### <font color="#e3b341">●</font> Sekarang
+#### <font color="#e3b341">●</font> Right Now
 
-- Fullstack development di PT Meta Media Optima
-- Mendalami **Go / Gin**, stack inti di kantor
-- Mengembangkan TKA & UTBK Tracker (Laravel 12 + Flutter)
-- Build in public di LinkedIn
-- Persiapan UTBK di sela kerja
+- Fullstack development at PT Meta Media Optima
+- Deep-diving into **Go / Gin**, the core stack at work
+- Building TKA & UTBK Tracker (Laravel 12 + Flutter)
+- Building in public on LinkedIn
+- Preparing for the UTBK entrance exam alongside work
 
 </td>
 <td width="50%" valign="top">
 
-#### <font color="#3fb950">●</font> Fokus 2026
+#### <font color="#3fb950">●</font> Focus in 2026
 
-- Backend Go yang clean dan scalable
-- SEO teknis dan performa web untuk produk nyata
-- Mengirim produk, bukan sekadar tutorial
-- Portofolio hidup di **ngabdullahhakim.com**
+- Clean, scalable Go backends
+- Technical SEO and web performance for real products
+- Shipping products, not just tutorials
+- A living portfolio at **ngabdullahhakim.com**
 
 </td>
 </tr>
@@ -83,14 +83,14 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **TKA & UTBK Tracker** | Platform belajar adaptif: bank soal, tryout berwaktu, live quiz, leaderboard. Live di Google Play, dibangun dan dirawat sendiri sebagai founder | Laravel 12 · Flutter · PostgreSQL |
-| **Aire** | Platform layanan AC: booking, katalog, pembayaran (produk PT Meta Media Optima) | Go / Gin · CodeIgniter 4 · PostgreSQL |
-| **Venus Gadget** | E-commerce gadget dengan fokus SEO teknis dan performa di HP kelas menengah | Next.js 15 · Go · PostgreSQL |
-| **Traversa** | Aplikasi travel untuk traveler Indonesia, dengan fitur trust dan safety | Flutter · Golang · PostgreSQL |
-| **KasirkuPOS** | POS dengan sinkronisasi dual-monitor real-time, asisten AI, dan laporan PDF / Excel | Laravel 12 · PostgreSQL · WebSocket |
-| **KasTumbuh** | Manajemen keuangan UMKM sesuai standar SAK EMKM | React · Node.js · PostgreSQL |
+| **TKA & UTBK Tracker** | Adaptive learning platform: question bank, timed tryouts, live quizzes, leaderboards. Live on Google Play, built and maintained solo as founder | Laravel 12 · Flutter · PostgreSQL |
+| **Aire** | AC service platform: booking, catalog, payments (a PT Meta Media Optima product) | Go / Gin · CodeIgniter 4 · PostgreSQL |
+| **Venus Gadget** | Gadget e-commerce focused on technical SEO and performance on mid-range Android phones | Next.js 15 · Go · PostgreSQL |
+| **Traversa** | Travel app for Indonesian travelers, with trust and safety features | Flutter · Golang · PostgreSQL |
+| **KasirkuPOS** | Point of sale with real-time dual-monitor sync, an AI assistant, and PDF / Excel reports | Laravel 12 · PostgreSQL · WebSocket |
+| **KasTumbuh** | SME financial management aligned with the SAK EMKM standard | React · Node.js · PostgreSQL |
 
-> Bukti proyek ditampilkan sebagai foto dan demo di [ngabdullahhakim.com](https://ngabdullahhakim.com), bukan sebagai repo publik.
+> Project proof lives as photos and demos at [ngabdullahhakim.com](https://ngabdullahhakim.com), not as public repositories.
 
 <br/>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-Punya proyek, peluang, atau sekadar mau ngobrol soal Go, Laravel, atau Flutter? Pintu saya selalu terbuka.
+Have a project, an opportunity, or just want to talk Go, Laravel, or Flutter? My door is always open.
 
 <a href="https://ngabdullahhakim.com"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-ngabdullahhakim.com-EAB308?style=for-the-badge&logo=googlechrome&logoColor=181512" alt="Visit the portfolio of Ngabdullah Hakim" /></a>
 <a href="https://www.linkedin.com/in/ngabdullah-hakim-121ab0292"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F0F6FC" alt="Connect with Ngabdullah Hakim on LinkedIn" /></a>
